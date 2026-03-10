@@ -33,8 +33,8 @@
 
 ### 步骤 1：克隆仓库
 ```bash
-git clone https://github.com/yourusername/telegram-file-bot.git
-cd telegram-file-bot
+git clone https://github.com/yourusername/tdl2tg-bot.git
+cd tdl2tg-bot
 ```
 
 ### 步骤 2：配置环境
